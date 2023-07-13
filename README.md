@@ -1,5 +1,5 @@
 # SILICONLLM
-Silicon-based Local LLM Toolbox and Information Center
+Apple Silicon-based Local LLM Toolbox and Information Center
 
 🌟 SILICONLLM is coming soon! 🚀
 
